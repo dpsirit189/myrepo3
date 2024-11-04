@@ -13,6 +13,7 @@ public class DemoblazeTest {
 	  driver.manage().window().maximize();
 	  Thread.sleep(2000);
 	  driver.get("https://www.ixigo.com/flights");
+	  Thread.sleep(2000);
 	  
   }
 }
