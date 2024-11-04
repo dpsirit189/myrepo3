@@ -14,6 +14,7 @@ public class DemoblazeTest {
 	  Thread.sleep(2000);
 	  driver.get("https://www.ixigo.com/flights");
 	  Thread.sleep(2000);
+	  Thread.sleep(2000);// added code on 4th Nov,2024
 	  
   }
 }
