@@ -15,6 +15,6 @@ public class DemoblazeTest {
 	  driver.get("https://www.ixigo.com/flights");
 	  Thread.sleep(2000);
 	  Thread.sleep(2000);// added code on 4th Nov,2024
-	  
+	  driver.manage().window().minimize(); // dsp code change
   }
 }
